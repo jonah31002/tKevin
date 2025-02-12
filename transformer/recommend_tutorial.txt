@@ -1,1 +1,2 @@
-LearnGPT: 
+LearnGPT: learngpt.com
+    The best ChatGPT examples from around the web
